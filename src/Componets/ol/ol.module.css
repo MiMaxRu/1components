@@ -1,0 +1,7 @@
+.olcontent ol li{
+    color:blueviolet;
+    font-size: 25px;
+}
+.olcontent ol{
+    list-style: georgian;
+}
